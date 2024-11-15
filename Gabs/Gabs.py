@@ -1,4 +1,4 @@
-def gabs:
+def gabs():
     return "Eu sou gostosa"
-
-    gabs()
+    
+print(gabs())
